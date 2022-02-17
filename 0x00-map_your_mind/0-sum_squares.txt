@@ -3,3 +3,5 @@ Inp = num;
 Squ = num * num;
 
 print(squ)
+
+inp 
